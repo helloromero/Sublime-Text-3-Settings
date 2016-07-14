@@ -1,13 +1,12 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"font_options":
 	[
 		"gray_antialias"
 	],
-	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -19,5 +18,5 @@
 	[
 		100
 	],
-	"theme": "Dark-Material.sublime-theme",
+	"theme": "Dark-Material.sublime-theme"
 }
